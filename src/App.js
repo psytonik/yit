@@ -37,6 +37,7 @@ const App = () => {
                       setDescription={setDescription}
                       setAuthor={setAuthor}
                       setPicture={setPicture}
+                      picture={picture}
                   />
               </div>
   );
