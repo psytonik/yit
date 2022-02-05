@@ -1,7 +1,6 @@
 .app {
     direction: rtl;
     display:flex;
-    background-color:#e0ebff;
     height: 100%;
     margin: 0;
 }
